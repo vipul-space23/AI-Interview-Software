@@ -23,7 +23,7 @@
 
 ## ⚡ Tech Stack  
 - **Frontend**: Next.js, React, Tailwind CSS  
-- **Backend**: Node.js, Express.js, MongoDB  
+- **Backend**: Python (Flask),Node.js, Express.js, MongoDB  
 - **AI & ML**: OpenAI Llama, Computer Vision (Emotion Detection), NLP 
 - **Video Processing**: WebRTC, Google Meet API, Zoom SDK  
 - **Deployment**: Vercel
