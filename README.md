@@ -1,56 +1,53 @@
-🚀 AI-Powered Interview System
-📌 Overview
-The AI-Powered Interview System is an advanced recruitment platform that automates and enhances the interview process using AI. It analyzes candidate responses, detects emotions, generates dynamic questions, and provides recruiters with detailed insights—all in real-time.
+# 🎯 AI Interview System  
 
-🌟 Key Features
-🎯 Core Features
-🎭 Emotion Detection – Tracks real-time emotions like stress, confidence, and engagement using facial recognition.
-🤖 Automated Question Generation – Dynamically generates follow-up questions based on candidate responses and resume.
-📹 Video Review with Annotations – Highlights key moments in interview recordings for quick analysis.
-📊 Behavioral Insights Dashboard – Displays confidence, stress levels, and engagement trends.
-📌 Customizable Interview Templates – Allows recruiters to create role-specific interview workflows.
-🔗 Video Platform Integration – Supports Google Meet, Zoom, and Teams for seamless interviews.
-🚀 Additional Features
-🧩 Cultural Fit Analysis – Evaluates alignment with company values.
-🛡️ Bias Detection – Flags potential bias in questions and responses.
-💬 Candidate Feedback – Provides AI-driven feedback on performance and areas for improvement.
-🧘 Stress Management Tips – Offers real-time guidance to reduce interview anxiety.
-📈 Predictive Hiring Score – Assesses candidate suitability using AI.
-🌍 Multilingual Support – Enables interviews in multiple languages.
-🎤 Interview Practice Mode – Allows candidates to practice and receive AI-generated feedback.
-🔄 Workflow
-1️⃣ Before the Interview: Recruiters upload resumes and set up interview templates.
-2️⃣ During the Interview: AI analyzes candidate responses, generates relevant questions, and detects emotions.
-3️⃣ After the Interview: Recruiters review insights, video annotations, and AI-generated feedback to make informed hiring decisions.
+🚀 **AI-powered Interview Assistant** that enhances the hiring process with real-time emotion detection, automated question generation, and insightful feedback.
 
-🏗️ Tech Stack
-Frontend: Next.js, React, Tailwind CSS
-Backend: Node.js, Express.js
-Database: MongoDB
-AI Models: Llama, OpenAI APIs (for NLP and emotion detection)
-Video & Meetings: Google Meet API, WebRTC
-Automation: n8n for workflow automation
-🎯 Future Enhancements
-Integration with ATS (Applicant Tracking Systems)
-AI-driven scoring system improvement
-More language support for global reach
-🛠️ Setup Instructions
-Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/your-repo-name.git
-cd your-repo-name
-Install dependencies:
-bash
-Copy
-Edit
-npm install
-Set up environment variables in .env file.
-Start the development server:
-bash
-Copy
-Edit
-npm run dev
-📬 Contact & Contributions
-Feel free to contribute to this project! Open issues, submit pull requests, and help us build the future of AI-powered hiring. 🚀
+## 🌟 Features  
+
+### 🔹 Core Features  
+✅ **Emotion Detection** – Tracks real-time emotions (stress, confidence) using facial recognition.  
+✅ **Automated Question Generation** – Dynamically suggests follow-up questions based on responses and resumes.  
+✅ **Video Review with Annotations** – Highlights key moments with timestamps for easy review.  
+✅ **Behavioral Insights Dashboard** – Provides a visual summary of confidence, stress, and engagement levels.  
+✅ **Customizable Templates** – Allows recruiters to create interview templates tailored to specific roles.  
+✅ **Integration with Video Platforms** – Works with Zoom, Google Meet, and Microsoft Teams.  
+
+### 🔹 Additional Features  
+✅ **Cultural Fit Analysis** – Evaluates candidate alignment with company values.  
+✅ **Bias Detection** – Flags potential bias in questions or responses.  
+✅ **Candidate Feedback** – Generates insights on strengths and areas for improvement.  
+✅ **Stress Management Tips** – Provides real-time stress management advice.  
+✅ **Predictive Hiring Score** – Uses AI to predict the candidate’s suitability for the role.  
+✅ **Multilingual Support** – Enables multiple language options.  
+✅ **Interview Practice Mode** – Allows candidates to practice and receive AI-driven feedback.  
+
+## ⚡ Tech Stack  
+- **Frontend**: Next.js, React, Tailwind CSS  
+- **Backend**: Node.js, Express.js, MongoDB  
+- **AI & ML**: OpenAI Llama, Computer Vision (Emotion Detection), NLP  
+- **Video Processing**: WebRTC, Google Meet API, Zoom SDK  
+- **Deployment**: Docker, Kubernetes, AWS/GCP  
+
+## 🔄 Workflow  
+
+1. **Before the Interview**  
+   - Recruiter uploads the resume and sets the interview template.  
+
+2. **During the Interview**  
+   - AI analyzes responses, suggests questions, and detects emotions.  
+
+3. **After the Interview**  
+   - Recruiter reviews AI-generated insights and provides feedback.  
+
+## 🛠️ Installation & Setup  
+
+### 📌 Prerequisites  
+Ensure you have the following installed:  
+- Node.js  
+- MongoDB  
+- Docker (optional for containerized deployment)  
+
+### 📥 Clone the Repository  
+```bash
+git clone https://github.com/your-username/ai-interview-system.git
+cd ai-interview-system
