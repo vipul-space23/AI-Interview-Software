@@ -1,4 +1,4 @@
-# 🎯 AI Interview System  
+# 🎯 AI Powered Interview System  
 
 🚀 **AI-powered Interview Assistant** that enhances the hiring process with real-time emotion detection, automated question generation, and insightful feedback.
 
@@ -24,9 +24,9 @@
 ## ⚡ Tech Stack  
 - **Frontend**: Next.js, React, Tailwind CSS  
 - **Backend**: Node.js, Express.js, MongoDB  
-- **AI & ML**: OpenAI Llama, Computer Vision (Emotion Detection), NLP  
+- **AI & ML**: OpenAI Llama, Computer Vision (Emotion Detection), NLP 
 - **Video Processing**: WebRTC, Google Meet API, Zoom SDK  
-- **Deployment**: Docker, Kubernetes, AWS/GCP  
+- **Deployment**: Vercel
 
 ## 🔄 Workflow  
 
